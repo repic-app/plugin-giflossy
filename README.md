@@ -1,0 +1,1 @@
+## Gifsicle Plugin for Repic Compressor.
